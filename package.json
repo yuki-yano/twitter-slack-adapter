@@ -1,0 +1,17 @@
+{
+  "name": "twitter-slack-adapter",
+  "version": "0.0.0",
+  "private": true,
+  "author": "dionore",
+  "description": "twitter timeline pipe slack channel",
+  "dependencies": {
+    "hubot": "^2.11.4",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-scripts": "^2.5.16",
+    "hubot-twitter-userstream": "0.0.3",
+    "request": "^2.54.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

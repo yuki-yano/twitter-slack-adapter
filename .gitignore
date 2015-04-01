@@ -1,0 +1,11 @@
+.DS_Store*
+
+/node_modules
+/.hubot_history
+/.envrc
+/tmp/*
+
+/vendor/bundle
+/.bundle
+
+!.keep
